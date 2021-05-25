@@ -12,6 +12,6 @@ if (l21EF0E9E_0)
 	/// @DnDArgument : "xpos" "x"
 	/// @DnDArgument : "ypos" "y"
 	/// @DnDArgument : "objectid" "pellet"
-	/// @DnDSaveInfo : "objectid" "4fb56227-2b3a-4176-91ae-8b0e8af7fc7c"
+	/// @DnDSaveInfo : "objectid" "pellet"
 	instance_create_layer(x, y, "Instances", pellet);
 }

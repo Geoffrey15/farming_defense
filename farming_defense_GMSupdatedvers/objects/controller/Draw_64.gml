@@ -2,7 +2,7 @@
 /// @DnDVersion : 1
 /// @DnDHash : 29DCE2A9
 /// @DnDArgument : "sprite" "heartS"
-/// @DnDSaveInfo : "sprite" "938a74ba-29b5-4039-9429-f6f8bd85b6fe"
+/// @DnDSaveInfo : "sprite" "heartS"
 var l29DCE2A9_0 = sprite_get_width(heartS);
 var l29DCE2A9_1 = 0;
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;

@@ -8,5 +8,5 @@ image_speed = 1;
 /// @DnDHash : 5D443102
 /// @DnDArgument : "path" "enemypath"
 /// @DnDArgument : "speed" "3"
-/// @DnDSaveInfo : "path" "ba81e9a5-1de7-470f-94ef-c11cc3c3f588"
+/// @DnDSaveInfo : "path" "enemypath"
 path_start(enemypath, 3, path_action_stop, false);
