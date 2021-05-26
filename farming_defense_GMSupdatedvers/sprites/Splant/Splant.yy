@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 30,
-  "bbox_right": 33,
-  "bbox_top": 27,
-  "bbox_bottom": 30,
+  "bbox_left": 29,
+  "bbox_right": 32,
+  "bbox_top": 13,
+  "bbox_bottom": 16,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b9d8d106-407b-4d74-a8a0-b97a5f682dd3","path":"sprites/Stools/Stools.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b9d8d106-407b-4d74-a8a0-b97a5f682dd3","path":"sprites/Stools/Stools.yy",},"LayerId":{"name":"e16f5798-803e-43bf-b2ed-7ba3185d21bc","path":"sprites/Stools/Stools.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Stools","path":"sprites/Stools/Stools.yy",},"resourceVersion":"1.0","name":"b9d8d106-407b-4d74-a8a0-b97a5f682dd3","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cea8c85b-7d41-448d-b9b7-77f9e8628607","path":"sprites/Splant/Splant.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cea8c85b-7d41-448d-b9b7-77f9e8628607","path":"sprites/Splant/Splant.yy",},"LayerId":{"name":"6bf5b7da-8e91-47c3-a768-227a723879a9","path":"sprites/Splant/Splant.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Splant","path":"sprites/Splant/Splant.yy",},"resourceVersion":"1.0","name":"cea8c85b-7d41-448d-b9b7-77f9e8628607","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"Stools","path":"sprites/Stools/Stools.yy",},
+    "spriteId": {"name":"Splant","path":"sprites/Splant/Splant.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"ad52b522-5c16-4c1f-9b19-7aa453cb4b32","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b9d8d106-407b-4d74-a8a0-b97a5f682dd3","path":"sprites/Stools/Stools.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"7a908afa-73a8-44d4-9c7c-52a3cf15a09b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cea8c85b-7d41-448d-b9b7-77f9e8628607","path":"sprites/Splant/Splant.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"Stools","path":"sprites/Stools/Stools.yy",},
+    "parent": {"name":"Splant","path":"sprites/Splant/Splant.yy",},
     "resourceVersion": "1.3",
-    "name": "Stools",
+    "name": "Splant",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e16f5798-803e-43bf-b2ed-7ba3185d21bc","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"6bf5b7da-8e91-47c3-a768-227a723879a9","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Stools",
+  "name": "Splant",
   "tags": [],
   "resourceType": "GMSprite",
 }

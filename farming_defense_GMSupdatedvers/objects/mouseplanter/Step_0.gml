@@ -18,10 +18,17 @@ if (l40C1B471_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 6E84528E
 	/// @DnDParent : 40C1B471
-	/// @DnDArgument : "spriteind" "Stools"
-	/// @DnDSaveInfo : "spriteind" "Stools"
-	sprite_index = Stools;
+	/// @DnDArgument : "spriteind" "Sempty"
+	/// @DnDSaveInfo : "spriteind" "Sempty"
+	sprite_index = Sempty;
 	image_index = 0;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 6C022173
+	/// @DnDParent : 40C1B471
+	/// @DnDArgument : "var" "tools"
+	tools = 0;
 }
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
@@ -36,11 +43,18 @@ if (l000F3B27_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 331EAF9B
 	/// @DnDParent : 000F3B27
-	/// @DnDArgument : "imageind" "1"
-	/// @DnDArgument : "spriteind" "Stools"
-	/// @DnDSaveInfo : "spriteind" "Stools"
-	sprite_index = Stools;
-	image_index = 1;
+	/// @DnDArgument : "spriteind" "Splant"
+	/// @DnDSaveInfo : "spriteind" "Splant"
+	sprite_index = Splant;
+	image_index = 0;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 0B628DE2
+	/// @DnDParent : 000F3B27
+	/// @DnDArgument : "expr" "1"
+	/// @DnDArgument : "var" "tools"
+	tools = 1;
 }
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Pressed
@@ -55,9 +69,16 @@ if (l41FC58AD_0)
 	/// @DnDVersion : 1
 	/// @DnDHash : 14006102
 	/// @DnDParent : 41FC58AD
-	/// @DnDArgument : "imageind" "2"
 	/// @DnDArgument : "spriteind" "Stools"
 	/// @DnDSaveInfo : "spriteind" "Stools"
 	sprite_index = Stools;
-	image_index = 2;
+	image_index = 0;
+
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 344FEB43
+	/// @DnDParent : 41FC58AD
+	/// @DnDArgument : "expr" "2"
+	/// @DnDArgument : "var" "tools"
+	tools = 2;
 }
