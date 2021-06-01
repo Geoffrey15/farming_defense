@@ -11,3 +11,9 @@ __dnd_lives = real(5);
 /// @DnDArgument : "score" "100"
 
 __dnd_score = real(100);
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 0ECFBDBA
+/// @DnDArgument : "var" "global.waves"
+global.waves = 0;

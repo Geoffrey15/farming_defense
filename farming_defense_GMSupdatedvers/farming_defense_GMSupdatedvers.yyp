@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"mouseplanter","path":"objects/mouseplanter/mouseplanter.yy",},"order":5,},
     {"id":{"name":"Stools","path":"sprites/Stools/Stools.yy",},"order":8,},
+    {"id":{"name":"wave2","path":"timelines/wave2/wave2.yy",},"order":1,},
     {"id":{"name":"caterpiller","path":"sprites/caterpiller/caterpiller.yy",},"order":0,},
     {"id":{"name":"heartS","path":"sprites/heartS/heartS.yy",},"order":1,},
     {"id":{"name":"Sempty","path":"sprites/Sempty/Sempty.yy",},"order":5,},
@@ -16,6 +17,7 @@
     {"id":{"name":"player","path":"objects/player/player.yy",},"order":2,},
     {"id":{"name":"plot","path":"objects/plot/plot.yy",},"order":4,},
     {"id":{"name":"pellet","path":"objects/pellet/pellet.yy",},"order":3,},
+    {"id":{"name":"wave1","path":"timelines/wave1/wave1.yy",},"order":0,},
     {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":0,},
   ],
   "Options": [

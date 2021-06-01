@@ -25,10 +25,12 @@ if(plant == 1)
 		/// @DnDVersion : 1
 		/// @DnDHash : 70866A1F
 		/// @DnDParent : 58E3933B
+		/// @DnDArgument : "xpos" "31"
 		/// @DnDArgument : "xpos_relative" "1"
+		/// @DnDArgument : "ypos" "31"
 		/// @DnDArgument : "ypos_relative" "1"
 		/// @DnDArgument : "objectid" "plantpellet"
 		/// @DnDSaveInfo : "objectid" "plantpellet"
-		instance_create_layer(x + 0, y + 0, "Instances", plantpellet);
+		instance_create_layer(x + 31, y + 31, "Instances", plantpellet);
 	}
 }
