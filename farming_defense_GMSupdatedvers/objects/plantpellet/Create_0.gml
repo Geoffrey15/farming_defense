@@ -8,8 +8,8 @@ direction = point_direction(x, y, global.enemyX, global.enemyY);
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 1DACD9D8
-/// @DnDArgument : "speed" "7"
-speed = 7;
+/// @DnDArgument : "speed" "10"
+speed = 10;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

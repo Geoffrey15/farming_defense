@@ -7,11 +7,8 @@ image_speed = 0;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 27652E3D
-/// @DnDInput : 2
 /// @DnDArgument : "var" "plant"
-/// @DnDArgument : "var_1" "growth"
 plant = 0;
-growth = 0;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
