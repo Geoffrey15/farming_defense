@@ -9,7 +9,6 @@ if(wave == 0)
 	/// @DnDHash : 7AEC7C86
 	/// @DnDParent : 2D012443
 	/// @DnDArgument : "timeline" "Timeline1"
-	/// @DnDSaveInfo : "timeline" "Timeline1"
 	timeline_index = Timeline1;
 	timeline_loop = 0;
 	timeline_running = 1;

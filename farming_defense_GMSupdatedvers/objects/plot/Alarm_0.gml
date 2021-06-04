@@ -8,8 +8,9 @@ alarm_set(0, 100);
 /// @DnDVersion : 1
 /// @DnDHash : 401182AD
 /// @DnDArgument : "var" "plant"
+/// @DnDArgument : "op" "4"
 /// @DnDArgument : "value" "1"
-if(plant == 1)
+if(plant >= 1)
 {
 	/// @DnDAction : YoYo Games.Instances.If_Instance_Exists
 	/// @DnDVersion : 1
